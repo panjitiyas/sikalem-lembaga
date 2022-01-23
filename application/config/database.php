@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '960d4a87',
-	'database' => 'elfandra_sikalem',
+	'hostname' => 'elfandra.my.id',
+	'username' => 'elfandra_sikalem',
+	'password' => 'sikalem2022',
+	'database' => 'elfandra_sikalem2022',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
@@ -95,4 +95,4 @@ $db['default'] = array(
 	'save_queries' => TRUE
 );
 
-$db['default']['port'] = '3306'; 
+$db['default']['port'] = '3306';
