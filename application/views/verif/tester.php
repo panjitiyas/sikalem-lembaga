@@ -1,0 +1,1 @@
+<?=$data->verifid?>" <?=$data->verifid==$row->verifid ? "selected" : null?>

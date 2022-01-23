@@ -1,0 +1,21 @@
+    {
+    "name": "sikalem",
+    "host": "elfandra.my.id",
+    "protocol": "ftp",
+    "port": 21,
+    "username": "panjitiyas@elfandra.my.id",
+    "password":"masel020816",
+    "remotePath": "/",
+    "uploadOnSave": true
+    }
+
+    {
+    "name": "lembaga",
+    "host": "180.250.19.48",
+    "protocol": "ftp",
+    "port": 21,
+    "username": "lembaga",
+    "password":"lem8464#2021",
+    "remotePath": "/",
+    "uploadOnSave": true
+    }
